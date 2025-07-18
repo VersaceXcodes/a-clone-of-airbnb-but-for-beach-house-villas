@@ -1,2 +1,3 @@
-# a-clone-of-airbnb-but-for-beach-house-villas
-Project a-clone-of-airbnb-but-for-beach-house-villas generated.
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately
